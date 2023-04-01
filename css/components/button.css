@@ -1,0 +1,27 @@
+.btn-beige {
+	background-color: #e29578;
+	padding: 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Montserrat;
+}
+
+.btn-beige:hover {
+	background-color: #e29578;
+	opacity: 70%;
+	padding: 10px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: Montserrat;
+}
+.card btn-beige: hover {
+	background-color: #e29578;
+	opacity: 70%;
+	padding: 20px;
+	border-radius: 25px;
+	color: black;
+	font-weight: bold;
+	font-family: Montserrat;
+}
